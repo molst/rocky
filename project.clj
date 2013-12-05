@@ -1,4 +1,4 @@
-(defproject rocky "0.1-SNAPSHOT"
+(defproject rocky "0.1"
   :description "A testing support library."
   :url "https://github.com/molst/rocky"
   :scm {:name "git" :url "https://github.com/molst/rocky"}
@@ -7,4 +7,4 @@
             :distribution :repo}
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [peridot "0.0.8"]
-                 [torpo "0.2-SNAPSHOT"]])
+                 [torpo "0.1"]])
