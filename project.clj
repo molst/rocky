@@ -1,4 +1,4 @@
-(defproject rocky "0.1-SNAPSHOT"
+(defproject rocky "0.2-SNAPSHOT"
   :description "A testing support library."
   :url "https://github.com/molst/rocky"
   :scm {:name "git" :url "https://github.com/molst/rocky"}
